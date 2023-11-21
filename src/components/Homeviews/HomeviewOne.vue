@@ -1,16 +1,16 @@
 <template>
-    <div class="mt-[40px] md:mt-[90px] lg:mt-[170px] text-center text-white h-screen-hidden">
+    <div class="mt-[40px] md:mt-[90px] lg:mt-[170px] text-center text-white h-screen-hidden relative">
         <h1 class="w-[80%] mx-auto text-[32px] md:text-[36px] lg:text-[61px] font-sans font-[800]">Kelajakni ilg'or texnologiyalar va yechimlar bilan quring</h1>
         <p class="w-[80%] mx-auto text-[16px] font-[500] mt-[32px] lg:text-[21px]">Mijozlar ehtiyojidan kelib chiqqan holda, xizmatlar taklif qilamiz</p>
-        <div class="hidden md:block absolute mb-[400px]">
-            <div class="">
-                <img src="../../assets/images/speceffect/left.svg" alt="speceffect" class="opacity-20 brightness-200 lg:w-[200px] lg:h-[200px]">
+        <div class="hidden md:flex absolute w-full">
+            <div class="w-1/2">
+                <img src="../../assets/images/speceffect/left.png" alt="speceffect" class="md:w-[120px] md:h-[120px] lg:w-[250px] lg:h-[250px]">
             </div>
-            <div class="md:ml-[650px] lg:ml-[1050px] 2xl:ml-[1300px] border">
-                <div id="light" class="w-[200px] h-[200px] mb-[300px] absolute ">
+            <div class="w-1/3 md:ml-[500px] md:mt-[150px] lg:ml-[750px] lg:mt-[200px] 2xl:ml-[1000px] 2xl:mt-[200px]">
+                <!-- <div id="light" class="w-[200px] h-[200px] mb-[300px] absolute ">
 
-                </div>
-                <img src="../../assets/images/speceffect/right.svg" alt="speceffect" class="flex lg:w-[200px] lg:h-[200px] absolute">
+                </div> -->
+                <img src="../../assets/images/speceffect/right.png" alt="speceffect" class="flex md:w-[120px] md:h-[120px] lg:w-[200px] lg:h-[200px] absolute">
             </div>
         </div>
         <div class="w-[340px] md:w-[430px] mx-auto bg-gradient-to-r from-[#34BCA2] to-[#1A16E9] p-0.5 rounded-lg text-[16px] mt-[64px] md:mt-[80px]">

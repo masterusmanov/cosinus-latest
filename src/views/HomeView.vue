@@ -3,16 +3,25 @@
   import HomeviewOnes from '../components/Homeviews/HomeviewOnes.vue';
   import SpecEffect from '../components/Homeviews/SpecEffect.vue';
   import HomeviewTwo from '../components/HomeviewTwo/HoemviewTwo.vue'
+  import HomeviewThree from '../components/HomeviewThree/HomeviewThree.vue'
+  import HomeviewFour from '../components/HomeviewFour/HomeviewFour.vue';
+  import HomeviewFive from '../components/HomeviewFive/HomeviewFive.vue';
 </script>
 
 <template>
-  <section class="relative">  
+  <section id="main" class="relative">  
     <div class="container mx-auto">
       <HomeviewOne/>
       <SpecEffect/>
       <p class="text-[21px] text-center text-white font-[500] mt-[120px] md:mt-[176px] lg:mt-[260px] font-sans">Biz bilan o'sayotgan kompaniyalar</p>
       <HomeviewOnes class=""/>
-      <HomeviewTwo/>
+      <HomeviewTwo class=""/>
+      <HomeviewThree/>
+      <HomeviewFour/>
+      <HomeviewFive class="lg:mt-[200px]"/>
     </div>
   </section>
 </template>
+
+<style lang="scss" scoped>
+</style>
