@@ -2,7 +2,7 @@
     <div id="default-carousel" class="relative w-full" data-carousel="slide">
         <div class="relative h-[300px] overflow-hidden rounded-lg md:h-96">
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                <div class="w-[350px] h-[274px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
+                <div class="w-[100%] h-[274px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
                     <div class="h-[269px] rounded-[16px] bg-[#171B3F] opacity-90">
                         <div class="grid justify-center items-center gap-4 pt-4 ">
                             <div class="w-[60px] bg-gradient-to-r from-[#36C59E] to-[#1C1FE5] p-0.5 rounded-full mx-auto">
@@ -19,7 +19,7 @@
                 </div>
             </div>
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                <div class="w-[350px] h-[274px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
+                <div class="w-[100%] h-[274px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
                     <div class="h-[269px] rounded-[16px] bg-[#171B3F] opacity-90">
                         <div class="grid justify-center items-center gap-4 pt-4">
                             <div class="w-[60px] bg-gradient-to-r from-[#36C59E] to-[#1C1FE5] p-0.5 rounded-full mx-auto">
@@ -36,7 +36,7 @@
                 </div>
             </div>
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                <div class="w-[350px] h-[274px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
+                <div class="w-[100%] h-[274px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
                     <div class="h-[269px] rounded-[16px] bg-[#171B3F] opacity-90">
                         <div class="grid justify-center items-center gap-4 pt-4">
                             <div class="w-[60px] bg-gradient-to-r from-[#36C59E] to-[#1C1FE5] p-0.5 rounded-full mx-auto">
@@ -53,7 +53,7 @@
                 </div>
             </div>
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                <div class="w-[350px] h-[274px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
+                <div class="w-[100%] h-[274px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
                     <div class="h-[269px] rounded-[16px] bg-[#171B3F] opacity-90">
                         <div class="grid justify-center items-center gap-4 pt-4">
                             <div class="w-[60px] bg-gradient-to-r from-[#36C59E] to-[#1C1FE5] p-0.5 rounded-full mx-auto">
@@ -70,7 +70,7 @@
                 </div>
             </div>
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                <div class="w-[350px] h-[274px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
+                <div class="w-[100%] h-[274px] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
                     <div class="h-[269px] rounded-[16px] bg-[#171B3F] opacity-90">
                         <div class="grid justify-center items-center gap-4 pt-4">
                             <div class="w-[60px] bg-gradient-to-r from-[#36C59E] to-[#1C1FE5] p-0.5 rounded-full mx-auto">

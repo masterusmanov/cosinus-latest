@@ -9,30 +9,30 @@
     <img src="../../assets/images/speceffect/rounded.png" alt="" class="hidden lg:flex absolute lg:w-[48px] md:h-[48px] lg:mt-[15px] lg:ml-[350px]">
     <img src="../../assets/images/speceffect/border.png" alt="" class="hidden md:flex absolute  w-[120px] h-[124px] md:ml-[430px] md:mt-[20px] lg:ml-[750px] 2xl:ml-[910px] lg:mt-[300px]">
     <div class="grid md:flex justify-center items-center gap-4 mt-[64px] md:mt-[96px] lg:mt-[128px] my-10">
-        <div class="w-[350px] md:w-[232px] md:h-[232px] lg:w-[400px] lg:h-[250px] 2xl:w-[30%] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
+        <div class="w-[100%] md:w-[232px] md:h-[232px] lg:w-[400px] lg:h-[250px] 2xl:w-[30%] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
             <div class="md:h-[227px] lg:h-[245px] p-5 md:p-2 rounded-[16px] bg-[#171B3F] opacity-90">
                 <img src="../../assets//images/icon1/1.svg" alt="icon" class="w-[48px] h-[48px] mx-auto md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
                 <div class="text-white mt-[24px]">
                     <h2 class="text-[27px] md:text-[20px] lg:text-[27px] font-[700] md:pl-3 lg:pl-[24px] font-sans text-center md:text-left">Texnik ekspertiza</h2>
-                    <p class="w-full text-[16px] md:text-[14px] lg:text-[16px] md:pl-3 lg:pl-[24px] md:mb-2 mt-[16px] text-center md:text-left">Bizning jamoa texnologiya sohasida yuqori darajadagi bilim, ko'nikma va tajribaga ega</p>
+                    <p class="w-full text-[17px] md:text-[14px] lg:text-[16px] md:pl-3 lg:pl-[24px] md:mb-2 mt-[16px] text-center md:text-left">Bizning jamoa texnologiya sohasida yuqori darajadagi bilim, ko'nikma va tajribaga ega</p>
                 </div>
             </div>
         </div>
-        <div class="w-[350px] md:w-[232px] md:h-[232px] lg:w-[400px] lg:h-[250px] 2xl:w-[30%] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
+        <div class="w-[100%] md:w-[232px] md:h-[232px] lg:w-[400px] lg:h-[250px] 2xl:w-[30%] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
             <div class="md:h-[227px] lg:h-[245px] p-5 md:p-2 rounded-[16px] bg-[#171B3F] opacity-90">
                 <img src="../../assets//images/icon1/3.svg" alt="icon" class="w-[48px] h-[48px] mx-auto md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
                 <div class="text-white mt-[24px]">
                     <h2 class="text-[27px] md:text-[20px] lg:text-[27px] font-[700] md:pl-3 lg:pl-[24px] font-sans text-center md:text-left">Jamoaviy ish</h2>
-                    <p class="w-full text-[16px] md:text-[14px] lg:text-[16px] md:pl-3 lg:pl-[24px] md:mb-2 mt-[16px] text-center md:text-left">Resurslardan optimal  foydalanish va ish faoliyatini yaxshilash mahoratiga egaligi</p>
+                    <p class="w-full text-[17px] md:text-[14px] lg:text-[16px] md:pl-3 lg:pl-[24px] md:mb-2 mt-[16px] text-center md:text-left">Resurslardan optimal  foydalanish va ish faoliyatini yaxshilash mahoratiga egaligi</p>
                 </div>
             </div>
         </div>
-        <div class="w-[350px] md:w-[232px] md:h-[232px] lg:w-[400px] lg:h-[250px] 2xl:w-[30%] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
+        <div class="w-[100%] md:w-[232px] md:h-[232px] lg:w-[400px] lg:h-[250px] 2xl:w-[30%] mx-auto rounded-[16px] bg-gradient-to-t from-[#242B3D] to-[#999FB0] p-0.5">
             <div class="md:h-[227px] lg:h-[245px] p-5 md:p-2 rounded-[16px] bg-[#171B3F] opacity-90">
                 <img src="../../assets//images/icon1/2.svg" alt="icon" class="w-[48px] h-[48px] mx-auto md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
                 <div class="text-white mt-[24px]">
                     <h2 class="text-[27px] md:text-[20px] lg:text-[27px] font-[700] md:pl-3 lg:pl-[24px] font-sans text-center md:text-left">Samaralilik va aniqlik</h2>
-                    <p class="w-full text-[16px] md:text-[14px] lg:text-[16px] md:pl-3 lg:pl-[24px] md:mb-2 mt-[16px] text-center md:text-left">Umumiy maqsadlarga erishish uchun birgalikda ishlash va g’oya almashish ko’nikmasi mavjudligi</p>
+                    <p class="w-full text-[17px] md:text-[14px] lg:text-[16px] md:pl-3 lg:pl-[24px] md:mb-2 mt-[16px] text-center md:text-left">Umumiy maqsadlarga erishish uchun birgalikda ishlash va g’oya almashish ko’nikmasi mavjudligi</p>
                 </div>
             </div>
         </div>

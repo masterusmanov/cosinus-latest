@@ -4,7 +4,7 @@
             <div class="w-[72%] h-[65px] flex items-center gap-[100px]">
                 <img src="../assets/images/logo.svg" alt="logo" class="w-[40px] h-[17px] ml-3 md:ml-0 lg:w-[52px] lg:h-[22px]">
                 <div class="text-white hidden lg:flex justify-between items-center gap-10">
-                    <a href="#">Xizmatlar</a>
+                    <a href="/">Xizmatlar</a>
                     <a href="#">Portfolio</a>
                     <a href="#">Biz haqimizda</a>
                     <a href="#">Telegram bot</a>
