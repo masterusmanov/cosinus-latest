@@ -5,7 +5,7 @@
                 <div>
                     <img src="../assets/images/Cosinus.svg" alt="" class="lg:w-[94] h-[48px]">
                 </div>
-                <div class="grid md:flex text-[15px] text-white items-center text-right gap-2 md:gap-8 lg:text-[21px] lg:ml-[370px] 2xl:ml-[650px]">
+                <div class="grid md:flex text-[15px] text-white items-center text-right gap-2 md:gap-7 lg:text-[21px] lg:ml-[370px] 2xl:ml-[650px]">
                     <a href="#">Xizmatlar</a>
                     <a href="#">Portfolio</a>
                     <a href="#">Biz haqimizda</a>

@@ -5,6 +5,7 @@
         <h2 class="text-[27px] md:text-[36px] lg:text-[61px] font-[900] font-sans mt-[18px] md:ml-[104px] lg:ml-[128px] lg:w-[60%]">Mijozlarning sharhlari: mijozlarimiz nima deyishini tinglang</h2>
         <p class="text-[16px] md:text-[21px] mt-[32px] md:ml-[104px] lg:ml-[128px] lg:w-[50%]">Mijozlarimiz biz bilan ishlash tajribasi haqida nima deyishini bilib oling. Ularning sharhlarini o'qing va bizning yechimlarimiz ularning biznesiga qanday ijobiy ta'sir ko'rsatganini bilib oling</p>
     </div>
+    <img src="../../assets/images/speceffect/polborder3.png" alt="" class="hidden lg:flex w-[150px] h-[135px] absolute mt-[320px]">
     <div class="mt-[64px] md:mt-[96px] lg:mt-[128px]">
         <ImageCarusel class="md:hidden"/>
         <ImageCaruselTwo class="hidden md:block lg:hidden"/>
