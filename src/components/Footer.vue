@@ -13,10 +13,10 @@
                 </div>
             </div>
             <div class="flex justify-between items-center gap-6 md:gap-4 text-white font-[500] font-sans px-2 mt-[64px] md:mt-0 md:border-l-4 border-white">
-                <a href="#"><i class='bx bxl-telegram text-[32px] md:ml-6'></i></a>
-                <a href="#"><i class='bx bxl-instagram-alt text-[32px]' ></i></a>
-                <a href="#"><i class='bx bxl-facebook-circle text-[32px]'></i></a>
-                <a href="#"><i class='bx bxl-youtube text-[32px]' ></i></a>
+                <a href="https://t.me/cosinussupport_bot"><i class='bx bxl-telegram text-[32px] md:ml-6'></i></a>
+                <a href="https://www.instagram.com/cosinus_uz/?igshid=MzRlODBiNWFlZA%3D%3D"><i class='bx bxl-instagram-alt text-[32px]' ></i></a>
+                <a href="https://www.facebook.com/people/Cosinus-Uz/pfbid02RQjLHub4Me22QRv313zPfxwEruCF5F35RZjeEuc1vbjvAfbB4Ynbtj9f5o1b3fpgl/?mibextid=LQQJ4d"><i class='bx bxl-facebook-circle text-[32px]'></i></a>
+                <a href="https://www.youtube.com/@cosinus_uz"><i class='bx bxl-youtube text-[32px]' ></i></a>
             </div>
         </div>
         <div class="text-white w-[100%] mx-auto mt-[40px] border-t-2 border-white mb-2 md:mb-5">
