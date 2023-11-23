@@ -8,9 +8,9 @@
                     <router-link to="/services">Xizmatlar</router-link>
                     <router-link to="/portfolio">Portfolio</router-link>
                     <router-link to="/about">Biz haqimizda</router-link>
-                    <a href="#">Telegram bot</a>
+                    <p>Telegram bot</p>
                     <div class="flex items-center gap-1">
-                        <router-link to="/error">Cosinus academy</router-link>
+                        <p to="/error">Cosinus academy</p>
                         <p id="yangi" class="text-[10px] mb-5 py-0.5 px-1">Yangi</p>
                     </div>
                 </div>
@@ -38,10 +38,10 @@
                             <router-link to="/about" class="block px-4 py-2">Biz haqimizda</router-link>
                         </li>
                         <li>
-                            <a href="#" class="block px-4 py-2">Telegram bot</a>
+                            <p class="block px-4 py-2">Telegram bot</p>
                         </li>
                         <li>
-                            <a href="#" class="block px-4 py-2">Cosinus academy</a>
+                            <p class="block px-4 py-2">Cosinus academy</p>
                         </li>
                     </ul>
                 </div>
