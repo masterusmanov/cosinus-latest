@@ -6,7 +6,7 @@
     <img src="../../assets/images/speceffect/kubik2.png" alt="" class="hidden md:flex absolute w-[90px] h-[93px] lg:w-[120px] lg:h-[123px] 2xl:w-[170px] 2xl:h-[160px] ml-[] mt-[] lg:ml-[100px] 2xl:ml-[100px]">
     <div class="mt-[64px] md:mt-[76px] lg:mt-[64px] ">
         <div class="w-[295px] h-[46px] md:h-[60px] bg-gradient-to-r from-[#34BCA2] to-[#1A16E9] p-0.5 rounded-lg mx-auto my-[25px]">
-            <button class="w-full h-[42px] md:h-[55px] bg-[#171B3F] hover:bg-[#171B4F] py-2 rounded-lg text-white text-[16px] md:text-[21px] ">Biz bilan bog’laning</button>
+            <button class="w-full h-[42px] md:h-[55px] bg-[#171B3F] hover:bg-[#171B4F] py-2 rounded-lg text-white text-[16px] md:text-[21px] "><router-link to="/bogla">Biz bilan bog’laning</router-link></button>
         </div>
     </div>
 </template>

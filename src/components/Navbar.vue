@@ -26,22 +26,22 @@
                 <div id="dropdown" class="z-10 hidden bg-[#171B3F] divide-y divide-gray-100 rounded-lg shadow w-22 dark:bg-gray-700">
                     <ul class="py-2 text-[16px] font-serif text-white dark:text-gray-200" aria-labelledby="dropdownDefaultButton">
                         <li>
-                        <a href="/" class="block px-4 py-2">Bosh sahifa</a>
+                            <router-link to="/" class="block px-4 py-2">Bosh sahifa</router-link>
                         </li>
                         <li>
-                            <a href="/services" class="block px-4 py-2">Xizmatlar</a>
-                            </li>
-                        <li>
-                        <a href="/portfolio" class="block px-4 py-2">Portfolio</a>
+                            <router-link to="/services" class="block px-4 py-2">Xizmatlar</router-link>
                         </li>
                         <li>
-                        <a href="/about" class="block px-4 py-2">Biz haqimizda</a>
+                            <router-link to="/portfolio" class="block px-4 py-2">Portfolio</router-link>
                         </li>
                         <li>
-                        <a href="#" class="block px-4 py-2">Telegram bot</a>
+                            <router-link to="/about" class="block px-4 py-2">Biz haqimizda</router-link>
                         </li>
                         <li>
-                        <a href="/academy" class="block px-4 py-2">Cosinus academy</a>
+                            <router-link to="#" class="block px-4 py-2">Telegram bot</router-link>
+                        </li>
+                        <li>
+                            <router-link to="#" class="block px-4 py-2">Cosinus academy</router-link>
                         </li>
                     </ul>
                 </div>
