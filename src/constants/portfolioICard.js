@@ -1,8 +1,8 @@
-export const homeviewtwo = [
+export const portfolioCard = [
     {
       id: 1,
-      title: "Menu",
-      link: "/admin-dashboard",
+      title: "Malaka oshirish",
+      description: "Nibh tellus molestie nunc non blandit massa enim. Facilisis magna etiam tempor orci eu lobortis elem Orci sagittis eu volutpat odio facilisis mauris. At in tellus integer feugiat scelerisque. Mi sit am",
       icon: "bx bx-dish"
     },
     {
