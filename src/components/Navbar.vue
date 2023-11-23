@@ -17,7 +17,7 @@
             </div>
             <div class="w-[25%] md:w-[28%] flex justify-end items-center gap-3 text-white">
                 <div class="bg-gradient-to-r from-[#34BCA2] to-[#1A16E9] p-0.5 rounded-lg">
-                    <button class="bg-[#171B3F] px-2 py-2 rounded-lg"><a href="/connection">Bog'lanish</a></button>
+                    <button class="bg-[#171B3F] px-2 py-2 rounded-lg"><router-link to="/bogla" class="bg-[#171B3F] px-2 py-2 rounded-lg">Bog'lanish</router-link></button>
                 </div>
                 <button id="dropdownDefaultButton" data-dropdown-toggle="dropdown" class="lg:hidden">
                     <i class='bx bx-menu text-[32px] text-white'></i>
