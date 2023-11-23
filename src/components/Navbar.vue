@@ -38,10 +38,10 @@
                             <router-link to="/about" class="block px-4 py-2">Biz haqimizda</router-link>
                         </li>
                         <li>
-                            <router-link to="#" class="block px-4 py-2">Telegram bot</router-link>
+                            <a href="#" class="block px-4 py-2">Telegram bot</a>
                         </li>
                         <li>
-                            <router-link to="#" class="block px-4 py-2">Cosinus academy</router-link>
+                            <a href="#" class="block px-4 py-2">Cosinus academy</a>
                         </li>
                     </ul>
                 </div>
