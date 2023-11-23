@@ -15,7 +15,7 @@
                  <h2 class="text-white text-[27px] font-[700]">Malaka oshirish</h2>
              </div>
              <div class="text-white mt-[20px]">
-                 <p class="text-[16px] pl-[32px]">Nibh tellus molestie nunc non blandit massa enim. Facilisis magna etiam tempor orci eu lobortis elem Orci sagittis eu volutpat odio facilisis mauris. At in tellus integer feugiat scelerisque. Mi sit am</p>
+                 <p class="text-[16px] pl-[32px]">Biz odamlarga ilmiy tayyorlanish bilan xizmat ko'rsatishimiz mumkin. Bizning katta tajribaga ega o'qituvchilar jamoasi sizning professional rivojlanish uchun maxsus darslar va dasturlar tayyorlaydi. </p>
              </div>
          </div>
          <div class="h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -32,7 +32,7 @@
                 <h2 class="text-white text-[27px] font-[700]">Telegram bot</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">Nibh tellus molestie nunc non blandit massa enim. Facilisis magna etiam tempor orci eu lobortis elem Orci sagittis eu volutpat odio facilisis mauris. At in tellus integer feugiat scelerisque. Mi sit am</p>
+                <p class="text-[16px] pl-[32px]">Biz odamlarga Telegram bot xizmatlarini taqdim qila olishimiz mumkin. Bizning dasturiy ta'minotlar jamoasi Telegram botlarini yaratish va ulardan foydalanishda keng tajriba bilan tan olishadi.</p>
             </div>
         </div>
         <div class="h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -49,7 +49,7 @@
                 <h2 class="text-white text-[27px] font-[700]">Web sayt</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">Nibh tellus molestie nunc non blandit massa enim. Facilisis magna etiam tempor orci eu lobortis elem Orci sagittis eu volutpat odio facilisis mauris. At in tellus integer feugiat scelerisque. Mi sit am</p>
+                <p class="text-[16px] pl-[32px]">Biz odamlarga veb-saytlar yaratish xizmatlarini taklif qilamiz. Sizning talablaringiz va maqsadlaringiz asosida, biz maxsus veb-saytlar tuzishda mutaxassislik qilamiz. </p>
             </div>
         </div>
         <div class="h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -66,7 +66,7 @@
                 <h2 class="text-white text-[27px] font-[700]">Mobil ilova</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">Nibh tellus molestie nunc non blandit massa enim. Facilisis magna etiam tempor orci eu lobortis elem Orci sagittis eu volutpat.</p>
+                <p class="text-[16px] pl-[32px]">Swift, Kotlin, Flutter va boshqa zamonaviy framework va texnologiyalardan foydalangan holda, biznesingiz uchun interaktiv dizaynga ega mobil ilovalar yaratib beramiz</p>
             </div>
         </div>
         <div class="hidden md:block h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -83,7 +83,7 @@
                 <h2 class="text-white text-[27px] font-[700]">Dasturiy ta’minot</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Gains grandeur pious snare ideal grandeur justice grandeur ubermensch pious. God faith aversion joy </p>
+                <p class="text-[16px] pl-[32px]">Biz odamlarga dasturiy ta'minotlar bilan xizmat ko'rsatishimiz mumkin. Bizning dasturiy mahsulotlar jamoasi so'nggi texnologiyalarni va innovatsiyalarni qo'llab-quvvatlaydi.</p>
             </div>
         </div>
         <div class="hidden md:block h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -100,7 +100,7 @@
                 <h2 class="text-white text-[27px] font-[700]">Logo brending</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Gains grandeur pious snare ideal grandeur justice grandeur ubermensch pious. God faith aversion joy </p>
+                <p class="text-[16px] pl-[32px]">Biz odamlarga logotip dizayni xizmatlarini taklif qila olishimiz mumkin. Sizning brendingizni yaratishda va identifikatsiya qilishda bizning malakali dizayn jamoamiz sizga yordam bera olish uchun tayyor.</p>
             </div>
         </div>
         <div class="hidden lg:block h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -117,7 +117,7 @@
                 <h2 class="text-white text-[27px] font-[700]">Autocad</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">Gains grandeur pious snare ideal grandeur justice grandeur ubermensch pious. God faith aversion joy </p>
+                <p class="text-[16px] pl-[32px]">Autocad xizmatlarimiz, sizning maqsadlaringizni qondirish uchun moslashtirilgan, soha bo'yicha texnologiyalarni boshqarishda yetakchi kompyuter yordamida dizayn (CAD) yechimlarini taklif qiladi. </p>
             </div>
         </div>
         <div class="hidden lg:block h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -134,7 +134,7 @@
                 <h2 class="text-white text-[27px] font-[700]">3D max, interior dizayn</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Gains grandeur pious snare ideal grandeur justice grandeur ubermensch pious. God faith aversion joy </p>
+                <p class="text-[16px] pl-[32px]">Biz odamlarga 3D Max va interyer dizayni xizmatlarini taklif qila olishimiz mumkin. Bizning mahoratchilar jamoasi so'nggi dizayn texnologiyalari va xususiyatlar bilan ishlashda malakali.</p>
             </div>
         </div>
      </div>
