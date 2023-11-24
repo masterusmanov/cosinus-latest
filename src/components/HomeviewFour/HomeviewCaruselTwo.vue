@@ -121,6 +121,7 @@
       margin: 0;
       height: calc(100vh - 8em);
       font-family: "Muli", sans-serif;
+      overflow-x: hidden;
     }
     
     h1 {
