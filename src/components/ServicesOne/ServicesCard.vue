@@ -12,10 +12,10 @@
                   </linearGradient>
                   </defs>
                   </svg>
-                 <h2 class="text-white text-[27px] font-[700]">Malaka oshirish</h2>
+                 <h2 class="text-white text-[27px] font-[700]">Training</h2>
              </div>
              <div class="text-white mt-[20px]">
-                 <p class="text-[16px] pl-[32px]">Biz odamlarga ilmiy tayyorlanish bilan xizmat ko'rsatishimiz mumkin. Bizning katta tajribaga ega o'qituvchilar jamoasi sizning professional rivojlanish uchun maxsus darslar va dasturlar tayyorlaydi. </p>
+                 <p class="text-[16px] pl-[32px]">We can serve people with scientific training. Our team of highly experienced teachers prepares special lessons and programs for your professional development.</p>
              </div>
          </div>
          <div class="h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -32,7 +32,7 @@
                 <h2 class="text-white text-[27px] font-[700]">Telegram bot</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">Biz odamlarga Telegram bot xizmatlarini taqdim qila olishimiz mumkin. Bizning dasturiy ta'minotlar jamoasi Telegram botlarini yaratish va ulardan foydalanishda keng tajriba bilan tan olishadi.</p>
+                <p class="text-[16px] pl-[32px]">We may provide Telegram bot services to people. Our software team has extensive experience in creating and using Telegram bots.</p>
             </div>
         </div>
         <div class="h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -46,10 +46,10 @@
                     </linearGradient>
                     </defs>
                 </svg>
-                <h2 class="text-white text-[27px] font-[700]">Web sayt</h2>
+                <h2 class="text-white text-[27px] font-[700]">Website</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">Biz odamlarga veb-saytlar yaratish xizmatlarini taklif qilamiz. Sizning talablaringiz va maqsadlaringiz asosida, biz maxsus veb-saytlar tuzishda mutaxassislik qilamiz. </p>
+                <p class="text-[16px] pl-[32px]">We offer website building services to people. Based on your requirements and goals, we specialize in creating custom websites.</p>
             </div>
         </div>
         <div class="h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -63,10 +63,10 @@
                     </linearGradient>
                     </defs>
                 </svg>
-                <h2 class="text-white text-[27px] font-[700]">Mobil ilova</h2>
+                <h2 class="text-white text-[27px] font-[700]">Mobile application</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">Swift, Kotlin, Flutter va boshqa zamonaviy framework va texnologiyalardan foydalangan holda, biznesingiz uchun interaktiv dizaynga ega mobil ilovalar yaratib beramiz</p>
+                <p class="text-[16px] pl-[32px]">Using Swift, Kotlin, Flutter and other modern frameworks and technologies, we create mobile applications with interactive design for your business</p>
             </div>
         </div>
         <div class="hidden md:block h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -80,10 +80,10 @@
                     </linearGradient>
                     </defs>
                 </svg>
-                <h2 class="text-white text-[27px] font-[700]">Dasturiy ta’minot</h2>
+                <h2 class="text-white text-[27px] font-[700]">Software</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">Biz odamlarga dasturiy ta'minotlar bilan xizmat ko'rsatishimiz mumkin. Bizning dasturiy mahsulotlar jamoasi so'nggi texnologiyalarni va innovatsiyalarni qo'llab-quvvatlaydi.</p>
+                <p class="text-[16px] pl-[32px]">We can serve people with software. Our software products team supports the latest technologies and innovations.</p>
             </div>
         </div>
         <div class="hidden md:block h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -97,10 +97,10 @@
                     </linearGradient>
                     </defs>
                 </svg>
-                <h2 class="text-white text-[27px] font-[700]">Logo brending</h2>
+                <h2 class="text-white text-[27px] font-[700]">Logo branding</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">Biz odamlarga logotip dizayni xizmatlarini taklif qila olishimiz mumkin. Sizning brendingizni yaratishda va identifikatsiya qilishda bizning malakali dizayn jamoamiz sizga yordam bera olish uchun tayyor.</p>
+                <p class="text-[16px] pl-[32px]">We can offer logo design services to people. Our skilled design team is ready to help you create your brand and identity.</p>
             </div>
         </div>
         <div class="hidden lg:block h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -117,7 +117,7 @@
                 <h2 class="text-white text-[27px] font-[700]">Autocad</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">Autocad xizmatlarimiz, sizning maqsadlaringizni qondirish uchun moslashtirilgan, soha bo'yicha texnologiyalarni boshqarishda yetakchi kompyuter yordamida dizayn (CAD) yechimlarini taklif qiladi. </p>
+                <p class="text-[16px] pl-[32px]">Our Autocad services offer industry-leading computer-aided design (CAD) solutions in technology management, customized to meet your goals.</p>
             </div>
         </div>
         <div class="hidden lg:block h-[298px] rounded-[16px] bg-[#292e5a] opacity-90 md:w-[47%] 2xl:w-[45%] md:pr-2">
@@ -131,10 +131,10 @@
                     </linearGradient>
                     </defs>
                     </svg>
-                <h2 class="text-white text-[27px] font-[700]">3D max, interior dizayn</h2>
+                <h2 class="text-white text-[27px] font-[700]">3D max, interior design</h2>
             </div>
             <div class="text-white mt-[20px]">
-                <p class="text-[16px] pl-[32px]">Biz odamlarga 3D Max va interyer dizayni xizmatlarini taklif qila olishimiz mumkin. Bizning mahoratchilar jamoasi so'nggi dizayn texnologiyalari va xususiyatlar bilan ishlashda malakali.</p>
+                <p class="text-[16px] pl-[32px]">We can offer people 3D Max and interior design services. Our team of craftsmen are proficient in working with the latest design technologies and features.</p>
             </div>
         </div>
      </div>

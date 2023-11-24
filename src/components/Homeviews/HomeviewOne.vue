@@ -1,7 +1,7 @@
 <template>
     <div class="mt-[40px] md:mt-[90px] lg:mt-[170px] text-center text-white h-screen-hidden relative">
-        <h1 class="w-[80%] mx-auto text-[32px] md:text-[36px] lg:text-[61px] font-sans font-[800]">Kelajakni ilg'or texnologiyalar va yechimlar bilan quring</h1>
-        <p class="w-[80%] mx-auto text-[16px] font-[500] mt-[32px] lg:text-[21px]">Mijozlar ehtiyojidan kelib chiqqan holda, xizmatlar taklif qilamiz</p>
+        <h1 class="w-[80%] mx-auto text-[32px] md:text-[36px] lg:text-[61px] font-sans font-[800]">Build the future with advanced technologies and solutions</h1>
+        <p class="w-[80%] mx-auto text-[16px] font-[500] mt-[32px] lg:text-[21px]">We offer services based on customer needs</p>
         <div class="hidden md:flex absolute w-full">
             <div class="w-1/2">
                 <img src="../../assets/images/speceffect/left.png" alt="speceffect" class="md:w-[120px] md:h-[120px] lg:w-[250px] lg:h-[250px]">
@@ -14,7 +14,7 @@
             </div>
         </div>
         <div class="w-[340px] md:w-[430px] mx-auto bg-gradient-to-r from-[#34BCA2] to-[#1A16E9] p-0.5 rounded-lg text-[16px] mt-[64px] md:mt-[80px]">
-            <button class="bg-[#171B3F] px-[36px] py-[16px] md:px-[28px] md:py-[16px] rounded-lg font-[700] text-[16px] md:text-[20px]">Biznesingiz bormi? Biz bilan bog’laning</button>
+            <button class="bg-[#171B3F] w-full px-[30px] py-[16px] md:px-[28px] md:py-[16px] rounded-lg font-[700] text-[16px] md:text-[20px]">Do you have a business? Contact us</button>
         </div>
     </div>
 </template>

@@ -19,10 +19,10 @@
                         </defs>
                         <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-size="24" fill="#fff">1</text>
                     </svg>
-                    <h2 class="text-white text-[16px] font-[700]">Tahlil va g’oya</h2>
+                    <h2 class="text-white text-[16px] font-[700]">Analysis and idea</h2>
                 </div>
                 <div class="text-white mt-[24px]">
-                    <p class="text-[16px] px-[32px]">Ushbu boʻlimda raqobatchilar tahlil qilinadi, bozor oʻrganib chiqiladi. Va proyektning dastlabki g'oyalari shakllantiriladi</p>
+                    <p class="text-[16px] px-[32px]">In this section, competitors are analyzed and the market is studied. And the initial ideas of the project are formed</p>
                 </div>
             </div>
         </div>
@@ -39,10 +39,10 @@
                       </defs>
                       <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-size="24" fill="#fff">2</text>
                   </svg>
-                  <h2 class="text-white text-[16px] font-[700]">Auditoriya</h2>
+                  <h2 class="text-white text-[16px] font-[700]">Auditorium</h2>
               </div>
               <div class="text-white mt-[24px]">
-                  <p class="text-[16px] px-[32px]">Maqsadli auditoriya tanlanadi, talablari oʻrganilib chiqilgach, ularning ehtiyojlari aniqlanadi</p>
+                  <p class="text-[16px] px-[32px]">The target audience is selected, their needs are determined after their requirements are studied</p>
               </div>
           </div>
       </div>
@@ -59,10 +59,10 @@
                     </defs>
                     <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-size="24" fill="#fff">3</text>
                 </svg>
-                <h2 class="text-white text-[16px] font-[700]">Strategiya</h2>
+                <h2 class="text-white text-[16px] font-[700]">Strategy</h2>
             </div>
             <div class="text-white mt-[24px]">
-                <p class="text-[16px] px-[32px]">Qilinishi kerak boʻlgan ishlar aniqlanadi, ularning ketma-ketligi tuzib olinadi yaʼni asosiy reja tuziladi</p>
+                <p class="text-[16px] px-[32px]">The tasks that need to be done are defined, their sequence is drawn up, that is, the main plan is drawn up</p>
             </div>
         </div>
     </div>
@@ -79,10 +79,10 @@
                   </defs>
                   <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-size="24" fill="#fff">4</text>
               </svg>
-              <h2 class="text-white text-[16px] font-[700]">Rivojlanish</h2>
+              <h2 class="text-white text-[16px] font-[700]">Development</h2>
           </div>
           <div class="text-white mt-[24px]">
-              <p class="text-[16px] px-[32px]">Reja asosida bajarilishi kerak boʻlgan ishlar amalga oshiriladi va proyekt muvaffaqiyatli tugashi uchun sirli fishkalardan foydalaniladi</p>
+              <p class="text-[16px] px-[32px]">The tasks to be done are carried out according to the plan and the secret chips are used to ensure the successful completion of the project</p>
           </div>
       </div>
   </div>
@@ -99,10 +99,10 @@
                 </defs>
                 <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-size="24" fill="#fff">5</text>
             </svg>
-            <h2 class="text-white text-[16px] font-[700]">Hamkorlarimiz</h2>
+            <h2 class="text-white text-[16px] font-[700]">Our partners</h2>
         </div>
         <div class="text-white mt-[24px]">
-            <p class="text-[16px] px-[32px]">Bizga bildirgan ishonchingiz uchun tashakkur!</p>
+            <p class="text-[16px] px-[32px]">Thank you for your trust in us!</p>
         </div>
     </div>
 </div>
