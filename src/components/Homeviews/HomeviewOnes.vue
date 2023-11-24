@@ -81,6 +81,7 @@
       width: fit-content;
       width: max-content;
       animation: carouselAnim 20s infinite alternate linear;
+      overflow: hidden;
     }
     
     .entry {
